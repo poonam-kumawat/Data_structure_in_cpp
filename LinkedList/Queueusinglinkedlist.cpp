@@ -54,8 +54,7 @@ class quelink
 };
  
 int main()
-{
-    cout<<"Roll No.33\n"; 
+{ 
     quelink q;
     int ch; 
     while(1)
