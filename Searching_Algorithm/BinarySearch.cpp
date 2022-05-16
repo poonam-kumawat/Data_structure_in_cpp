@@ -3,7 +3,6 @@ using namespace std;
 int main()
 {
     int a[20],n,x,lower,upper,mid,flag=0,i;
-    cout<<"Rollno:-33";
     cout<<"\nEnter Size of Array: ";
     cin>>n;
     cout<<"Enter the Elements of Array: ";
